@@ -1,7 +1,7 @@
 ---
 tags: [other]
 ---
-
+[[Hello]]
 # FAQ
 
 How long does it take for the site to update?
